@@ -1,0 +1,158 @@
+.logo_div{
+	  min-height: 250px;
+    margin: 0 auto;
+     max-width: 323px;
+    margin-top: 61px;
+}
+.search_box{
+	float:none;
+	margin:0 auto;
+}
+.white_color{
+	color:#ffffff;
+}
+.backcolor-blue{
+	background-color:#2B4A54;
+}
+.backcolor-blue:hover{
+	background-color:#405c65 !important;
+}
+.backcolor-blue:focus{
+	background-color:#556e76 !important;
+	outline:none;
+}
+.logo_image{
+	    margin-top: 98px;
+}
+
+body{
+	margin-top: 70px;
+	background-image: url("../images/background.jpg");
+    background-attachment: fixed;
+    background-size: 100%;
+}
+.height-change{
+	height:44px;
+}
+.height-change-2{
+	height:45px;
+}
+
+.emailForm {
+	border-radius: 10x;
+	margin-top: 50px;
+	padding-bottom: 30px;
+}
+
+.headingTag {
+	margin: 0 Auto;
+	margin-bottom: 5px;
+    padding: 2px;
+    color: #27D3F5;
+    box-shadow: 3px;
+    border-radius: 5px;
+    height: 30px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 15px;
+    background-color: #2D3C53;
+}
+
+.liQueryOutput {
+	background-color: #ffffff;
+    margin-bottom: 10px;
+    color: #2E3D54;
+    	min-height: 400px;
+    	position: relative;
+}
+
+.ul_class{
+	width: 100% !important;
+    margin-left: 0 !important;
+}
+
+.miniHeadersHT {
+	color: #32D05D;
+	margin-bottom: 10px;
+	font-size: 1.3em;
+	font-weight: bold;
+}
+
+.miniHeadersURLs {
+	color: #EE5149;
+	margin-bottom: 10px;
+	font-size: 1.3em;
+	font-weight: bold;
+}
+
+.hashTags {
+	list-style: none;
+	float: left;
+	margin-right: 15px;        
+}
+
+.urlTags {
+	color: #2352A9;
+}
+
+.urlTags:visited {
+  	color: #425168;
+}
+
+.urlTags:hover {
+	color: #D62E36;
+	text-decoration: none;
+}
+
+.urlTags:active {
+	color: #F7D749;
+	text-decoration: none;
+}
+.tweetText {
+	font-size: 1.2em;
+}
+
+.tweetNumber {
+   position: absolute;
+   color: #000000;
+   bottom: 0;
+   right: 0;
+   width: 0;
+   height: 0;
+   border-style: solid;
+   border-width: 0 0 70px 70px;
+   border-color: transparent transparent#f7d749 transparent;
+   margin: 0;
+   text-indent: -38px;
+   line-height: 98px;
+   font-size: 1.2em;
+}
+
+.break {
+	clear: both;
+}
+
+.searchDisplayer {
+	margin-bottom: 0;
+}
+
+p{
+overflow-wrap:break-word;
+word-wrap:break-word;
+}
+
+.facet_div{
+width: 28%;
+    float: left;
+margin-top:50px;
+}
+
+.data_div{
+    width: 70%;
+    float: right;
+}
+
+.facet_li{
+background-color: rgba(255,255,255,0.5);
+border:0;
+}

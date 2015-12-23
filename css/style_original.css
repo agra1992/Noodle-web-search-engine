@@ -1,0 +1,64 @@
+.logo_div{
+	  min-height: 250px;
+    margin: 0 auto;
+     max-width: 323px;
+    margin-top: 61px;
+}
+.search_box{
+	float:none;
+	margin:0 auto;
+}
+.white_color{
+	color:#ffffff;
+}
+.backcolor-blue{
+	background-color:#2B4A54;
+}
+.backcolor-blue:hover{
+	background-color:#405c65 !important;
+}
+.backcolor-blue:focus{
+	background-color:#556e76 !important;
+	outline:none;
+}
+.logo_image{
+	    margin-top: 98px;
+}
+body{
+	background-image: url("../images/background.jpg");
+        background-attachment: fixed;
+}
+.height-change{
+	height:44px;
+}
+.height-change-2{
+	height:45px;
+}
+
+.emailForm {
+	border-radius: 10px;
+	margin-top: 50px;
+	padding-bottom: 30px;
+}
+
+.headingTag {
+	margin: 0 Auto;
+    padding: 2px;
+    color: rgb(234, 67, 53);
+    box-shadow: 3px;
+    border-radius: 5px;
+    height: 30px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 15px;
+    background-color: rgba(158, 142, 142, 0.3);
+}
+
+.liQueryOutput {
+	background-color: rgba(248, 248, 248,0.8);
+    margin-bottom: 10px;
+}
+
+.ul_class{
+width: 100% !important;
+    margin-left: 0 !important;
