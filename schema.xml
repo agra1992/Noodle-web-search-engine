@@ -8,7 +8,6 @@
    <field name="_root_" type="string" indexed="true" stored="false"/>
 
 
- <!--  <field name="uuid" type="string" indexed="true" stored="true" required="true"/> -->
 
     <field name="created_at" type="date" indexed="false" stored="true" />
 
@@ -32,6 +31,7 @@
 
   <!--
    <field name="alltext" type="text_general" indexed="true" stored="false" multiValued="true"/>
+   can be used with copy field to dump all text data in "alltext"
    -->
    <dynamicField name="*_i"  type="int"    indexed="true"  stored="true"/>
    <dynamicField name="*_s"  type="string"  indexed="true"  stored="true" />
